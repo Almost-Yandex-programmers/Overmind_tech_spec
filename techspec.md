@@ -128,7 +128,6 @@
    - Фреймворк Django
    - БД PostgreSQL
    - SQLAlchemy ORM
-   - Alembic для миграций
  - Фронтенд:
    - React
    - TypeScript
